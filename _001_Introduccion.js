@@ -1,0 +1,9 @@
+/*
+Creada por Brendan  Eich
+Inicialmente se llamab LiveScript
+Se le cambio el nombre para aprovechar la fama que en ese entonces tenia Java
+Se basa en un standard llamado ECMA Script
+NodeJS es JavaScript de el lado del servidor
+jQuery ya casi no se usa pero hay grandes proyectos que lo usan como Bootstrap o Wordpress
+
+*/
