@@ -1,6 +1,7 @@
 /**TEMPLATE STRINGS
  * 
  * -Facilitan la concatenación
+ * -Las comillas se llaman back-tic o acento inverso
  */
 
 
