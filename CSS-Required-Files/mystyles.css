@@ -1,0 +1,33 @@
+body{
+    background-color: yellowgreen;
+}
+h1{
+    color:green;
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20pt;
+}
+.blueboldtext{
+    font-size: small;
+    color: blue;
+    font-weight: bold;
+}
+.largegreentext{
+    font-size: large;
+    color:green;
+    font-weight:bold;
+}
+.underline{
+    text-decoration: underline;
+}
+#div1{
+    width: 80%;
+    border: 3px solid black;
+    background-color: yellow;
+    color: blue;
+    /** top, right, bottom , left => manecillas del reloj*/
+    margin: 10px 10px 10px 10px;
+    padding: 0px 0px 0px 0px;
+}
